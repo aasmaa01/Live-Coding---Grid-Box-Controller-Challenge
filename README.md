@@ -1,16 +1,22 @@
-# remotecontrollermat
+# Live Coding - Grid Box Controller Challenge (Flutter)
 
-A new Flutter project.
+This repository contains the live coding solution for the **Grid Box Controller Challenge** in Flutter using **Bloc** for state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+A Flutter application that displays a 5x5 grid with a highlighted box, which can be moved using remote control buttons. This version was implemented during a live coding session and demonstrates **Bloc-based state management** for handling grid movements.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- 5x5 grid with a highlighted box
+- Remote control buttons: Up, Down, Left, Right
+- Bloc-based state management for smooth UI updates
+- Displays box coordinates in the grid
+- Works on **Linux**, **Android**, and **iOS**
+- Responsive layout
+
+---
